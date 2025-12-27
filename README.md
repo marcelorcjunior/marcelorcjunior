@@ -11,8 +11,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 Tenho 30 anos e sou natural de Pernambuco, 🇧🇷. Concluí o curso de técnico em informática logo após finalizar o ensino médio. Atualmente, estou me dedicando ao desenvolvimento FullStack. Meu comprometimento com a área vai muito além das linhas de código. Tenho verdadeira paixão por aprender, estou sempre disposto a explorar novas tecnologias, desenvolver habilidades e evoluir profissionalmente.
 
 [![Gmail Badge](https://img.shields.io/badge/marcelocavalcanti.contato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
