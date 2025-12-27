@@ -1,73 +1,34 @@
-# ◼️ Marcelo Rocha
-**`Desenvolvedor FullStack em formação`**
+# Olá, meu nome é Marcelo!
+*Desenvolvedor FullStack em formação*
 
-Tenho 30 anos e sou natural de Pernambuco, 🇧🇷. Concluí o curso de técnico em informática logo após finalizar o ensino médio. Atualmente, estou me dedicando ao desenvolvimento FullStack, realizando cursos e formações em plataformas confiáveis (RocketSeat - Alura - Ebac). Meu comprometimento com a área vai muito além das linhas de código. Tenho verdadeira paixão por aprender, estou sempre disposto a explorar novas tecnologias, desenvolver habilidades e evoluir profissionalmente. Quero contribuir para o mercado de programação de forma positiva — seja por meio do meu trabalho, seja através de projetos e iniciativas pessoais que reflitam meu empenho e dedicação.
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+Tenho 30 anos e sou natural de Pernambuco, 🇧🇷. Concluí o curso de técnico em informática logo após finalizar o ensino médio. Atualmente, estou me dedicando ao desenvolvimento FullStack. Meu comprometimento com a área vai muito além das linhas de código. Tenho verdadeira paixão por aprender, estou sempre disposto a explorar novas tecnologias, desenvolver habilidades e evoluir profissionalmente.
+
+[![Gmail Badge](https://img.shields.io/badge/marcelocavalcanti.contato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 
 <p align="left">
-    <a href="https://github.com/marcelorcjunior?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/marcelorcjunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/marcelorcjunior?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/marcelorcjunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    
+<a href="www.linkedin.com/in/marcelorcjunior" title="Linkedin" target="_blank">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LINKEDIN"/>
+</a>
+
+<a href="https://wa.me/5581998457691" title="Whatsapp" target="_blank">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WHATSAPP"/>
+</a>
+
+<a href="https://www.instagram.com/marcelorcjunior" title="Instagram" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="INSTAGRAM"/>
+</a>
+
 </p>
-
----
-
-### 👾 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📈 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marcelorcjunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorcjunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
-  />
-</p>
-
